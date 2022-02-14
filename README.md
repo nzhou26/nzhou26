@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm Ningkun Zhou, a programmer with biology background. Graduated from the University Wisconsin, Madison, I'm currently working for Bioland Laboratory, Guangzhou.
+
+I'm building some deep learning-based applications for [cryo-EM](https://www.chemistryworld.com/news/explainer-what-is-cryo-electron-microscopy/3008091.article), including [cryoCheck](https://github.com/nzhou26/cryoCheck) and [particleSeg](https://github.com/nzhou26/particleSeg), attempting to improve data quality and processing efficiency. 
 <!--
 **nzhou26/nzhou26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
