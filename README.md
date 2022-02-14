@@ -1,19 +1,12 @@
-### Hi there 👋
+### What's Up 👋
 
-I'm Ningkun Zhou, a programmer with biology background. Graduated from the University Wisconsin, Madison, I'm currently working for Bioland Laboratory, Guangzhou.
+I'm Ningkun Zhou, a programmer with biology background. 
+
+I Graduated from the University Wisconsin–Madison, major in Genetics🧬 and minor in Computer Science💻.
+
+I'm currently working for Bioland Laboratory, Guangzhou.
 
 I'm building some deep learning-based applications for [cryo-EM](https://www.chemistryworld.com/news/explainer-what-is-cryo-electron-microscopy/3008091.article), including [cryoCheck](https://github.com/nzhou26/cryoCheck) and [particleSeg](https://github.com/nzhou26/particleSeg), attempting to improve data quality and processing efficiency. 
-<!--
-**nzhou26/nzhou26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'll never stop learning coding and mathematics behind it, because I believed coding is probably the only way to save humanity. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
