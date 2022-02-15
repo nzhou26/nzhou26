@@ -2,7 +2,7 @@
 
 I'm Ningkun Zhou, a programmer with biology background. 
 
-I Graduated from the University Wisconsin–Madison, major in Genetics🧬 and minor in Computer Science💻.
+I graduated from the University Wisconsin–Madison, majored in Genetics🧬 and minored in Computer Science💻.
 
 I'm currently working for [Bioland Laboratory](https://www.grmh-gdl.cn/), Guangzhou.
 
