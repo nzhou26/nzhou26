@@ -35,4 +35,4 @@ Feel free to explore my repositories to see my projects and contributions. I'm a
 
 ---
 
-[LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/ningkun-zhou-087983177/)) | [Email](nkzhou26@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/ningkun-zhou-087983177/) | [Email](nkzhou26@outlook.com)
