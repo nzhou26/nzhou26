@@ -8,7 +8,7 @@ I currently work at **Danieli China**, where I **lead** the algorithm team and t
 #### Scrap Yard Automatic Imaging
 
 <p align="left">
-  <img src="./images/output_compressed.gif" alt="gif of the automatic camera process" style="width: 80%;" />
+  <img src="./images/output2_compressed.gif" alt="gif of the automatic camera process" style="width: 80%;" />
 </p>
 
 This image acquisition system I developed is fully automatic. Whenever a new layer of scrap exposed by the electromagnet, a detailed image will be acquired. 
