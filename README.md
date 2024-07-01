@@ -43,14 +43,14 @@ Other than sample preparation and data collection, I contributed to these public
   <img src="images\research_particle_image.png" alt="image of particle processing" style="width: 110%;" />
 </p>
 
-<p style="text-align: center;">Image adapted from supplementary figures of my publication </p>
+<p align="center">Image adapted from supplementary figures of my publication </p>
 
 - **Density Map Reconstruction**: Central Slice Theorem applied to reconstruct a high-resolution 3D density map from 2D projection images. K-means clustering and Bayesian Polishing in 3D space was performed to further optimization.
 <p align="center">
   <img src="images\research_density_map.png" alt="image of density map" style="width: 110%;" />
 </p>
 
-<p style="text-align: center;">Image adapted from supplementary figures of my publication </p>
+<p align="center">Image adapted from supplementary figures of my publication </p>
 
 - **Auto Sample Screening**: Fine-tuned EffiecientNet integrated into data collection pipeline to determine the quality of data.
 <p align="center">
