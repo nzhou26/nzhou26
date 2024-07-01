@@ -78,4 +78,4 @@ Feel free to explore my repositories. I'm open to work right now!
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/ningkun-zhou-087983177/) | [nkzhou26@gmail.com](nkzhou26@gmail.com) | [resume_in_PDF](docs\resume_Ningkun_Zhou.pdf)
+[LinkedIn](https://www.linkedin.com/in/ningkun-zhou-087983177/) | [nkzhou26@gmail.com](nkzhou26@gmail.com) | [resume_in_PDF](docs/resume_Ningkun_Zhou.pdf)
