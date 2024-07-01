@@ -36,13 +36,32 @@ Prior to my industry work, I spent three years in research in the field of **Bio
 
 - Le Tang, Shuqi Dong, **Ningkun Zhou**, et al. "Vibrio parahaemolyticus prey targeting requires autoproteolysis-triggered dimerization of the type VI secretion system effector RhsP" *Cell Reports*, 2022. [DOI: 10.1016/j.celrep.2022.111732](https://doi.org/10.1016/j.celrep.2022.111732)
 
-If your are not familiar with Cryo-EM, I contribute to these projects by:
+Other than sample preparation and data collection, I contributed to these publication by applying several computer vision algorithms:
 
-- **Sample Preparation**: Rapidly freezing biological macromolecules in vitreous ice to preserve their native conformation, typically involving grid preparation, blotting, and plunge-freezing.
-- **Data Collection**: Acquiring a series of high-resolution micrographs using a cryo-electron microscope, often with the aid of automated data collection software, such as Serial-EM and EPU, to capture multiple views of the protein sample.
-- **Density Map Reconstruction**: Applying computational algorithms, which includes Fourier Transformation, K-Mean Clustering, Central Slice Theorem, to process the 2D projection images and reconstruct a high-resolution 3D density map of the specimen.
-- **Atomic Model Building**: Fitting atomic coordinates into the 3D density map using model-building software like Coot and Phenix, enabling the interpretation of the macromolecular structure at the atomic level and facilitating the understanding of its functional mechanisms.
-- **Innovative Approaches**: Integrated EffiecientNet in auto sample screening and U-Net for protein particle segmentation to improve resolution 
+- **Unsupervised Classification**: K-means clustering of protein particles applied in fourier space to filter out projections from different orientation.
+<p align="center">
+  <img src="images\research_particle_image.png" alt="image of particle processing" style="width: 110%;" />
+</p>
+
+<p style="text-align: center;">Image adapted from supplementary figures of my publication </p>
+
+- **Density Map Reconstruction**: Central Slice Theorem applied to reconstruct a high-resolution 3D density map from 2D projection images. K-means clustering and Bayesian Polishing in 3D space was performed to further optimization.
+<p align="center">
+  <img src="images\research_density_map.png" alt="image of density map" style="width: 110%;" />
+</p>
+
+<p style="text-align: center;">Image adapted from supplementary figures of my publication </p>
+
+- **Auto Sample Screening**: Fine-tuned EffiecientNet integrated into data collection pipeline to determine the quality of data.
+<p align="center">
+  <img src="images\cryocheck_examples.png" alt="image of cryocheck" style="width: 110%;" />
+</p>
+
+
+- **Particle Segmentation**: U-Net for protein particle segmentation to determine ROI, and further improve signal to noise ratio
+<p align="center">
+  <img src="images\seg_overview.png" alt="image of particle seg" style="width: 110%;" />
+</p>
 
 ## Education
 
@@ -59,4 +78,4 @@ Feel free to explore my repositories. I'm open to work right now!
 
 ---
 
-[LinkedIn](https://www.linkedin.com/in/ningkun-zhou-087983177/) | [nkzhou26@gmail.com](nkzhou26@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ningkun-zhou-087983177/) | [nkzhou26@gmail.com](nkzhou26@gmail.com) | [resume_in_PDF](docs\resume_Ningkun_Zhou.pdf)
