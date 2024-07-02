@@ -23,7 +23,9 @@ This image acquisition system I developed is fully automatic. Whenever a new lay
 </p>
 
 - **Fine-tuned Mask R-CNN**: Fine-tuned Mask R-CNN for semantic segmentation for scrap metal.
+- **Large Dataset**: Handled large quantity of annotation data, more than 25,000 images and 1,00,000 polygons per dataset 
 - **Continuous Optimization**: Worked closely with customers, ensured 90% to 95% accuracies by vehicle. More than five projects have been accepted under my leadership. 
+
 #### Other highlights
 - **Zero-shot Image Classification**: Applied zero-shot image classification to reduce data annotation by 50%.
 - **Image Search by Feature**: Developed a image search system based on contrastive loss to overcome annotation inaccuracy. 
