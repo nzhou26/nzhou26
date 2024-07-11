@@ -11,7 +11,7 @@ I currently work at **Danieli China**, where I **lead** the algorithm team and t
   <img src="./images/output2_compressed.gif" alt="gif of the automatic camera process" style="width: 110%;" />
 </p>
 
-This image acquisition system I developed is fully automatic. Whenever a new layer of scrap exposed by the electromagnet, a detailed image will be acquired. 
+This image acquisition system I developed is fully automatic. Whenever a new layer of scrap exposed by the electromagnet, a detailed image will be acquired. The zoom parameters are calculated in real time to ensure every detailed image is in the same scale, allowing  a stable semantic segmentation result later.
 
 - **YOLO for Object Detection**: Implemented YOLO to detect electron magnets in scrap yards for fully automatic PTZ camera image acquisition.
 - **Auto PTZ Camera Zoom Calculation**: Developed an calibration algorithm to automatically adjust PTZ camera zoom factor using cross-correlation techniques.
