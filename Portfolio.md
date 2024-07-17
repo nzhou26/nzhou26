@@ -8,8 +8,8 @@
   <img src="./images/output2_compressed.gif" alt="gif of the automatic camera process" style="width: 110%;" />
 </p>
 
-* Zoom co-efficient calibration, based on cross-correlation
-* YOLO Object Detection
+* Auto-adaptive image acquisition, enabling stable and detailed views based on auto PTZ vs XY-Mag calibration
+* Fewer duplicates acquired using YOLO Object Detection and image registration
 * Decoupling the system from a huge redis-interacted single process to multiple API and RabbitMQ microservices
 ### Scrap Semantic Segmentation
 
@@ -19,7 +19,8 @@
 </p>
 
 * Fine-tuned Mask-RCNN
-* Regression that links between area proportion to weight proportion
+* Regression that links between area proportion and weight proportion
+* Discovered minimum required polygon annotation by correlating mAP with num polygon
 ### Bale Breaker
 
 <p align="center">
