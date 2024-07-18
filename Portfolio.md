@@ -24,11 +24,24 @@
 ### Bale Breaker
 
 <p align="center">
-  <img src="./images/20240623130628_YGA1195_4_0_10" alt="bale breaker image" style="width: 40%; margin-right: 2%;" />
+  <img src="images\bale_breaker_compressed.gif" alt="bale breaker image" style="width: 80%; margin-right: 2%;" />
 </p>
 
-* Fully automatic when a metal scrap bale is under processing
-* Mechanical arm that ensures image acquisition from all angles 
+<p align="center">Fully automatic when a metal scrap bale is under processing </p>
+
+<table>
+  <tr>
+    <td><img src="images\bale_breaker\raw\20240718094304_赣DJ1481_1_-1_1080.jpg" alt="Image 1" style="width:80%;"></td>
+    <td><img src="images\bale_breaker\raw\20240718094304_赣DJ1481_1_-2_1080.jpg" alt="Image 2" style="width:80%;"></td>
+  </tr>
+  <tr>
+    <td><img src="images\bale_breaker\masked\20240718094304_赣DJ1481_1_-1_1080.jpg" alt="Image 3" style="width:80%;"></td>
+    <td><img src="images\bale_breaker\masked\20240718094304_赣DJ1481_1_-2_1080.jpg" alt="Image 4" style="width:80%;"></td>
+  </tr>
+</table>
+
+<p align="center">Mechanical arm that ensures image acquisition from all angles  </p>
+
 ### Innovation
 
 <p align="center">
