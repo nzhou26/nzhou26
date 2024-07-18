@@ -56,11 +56,11 @@
 
 <div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
   <div style="flex: 1; text-align: center; margin-right: 10px;">
-    <img src="images\image_search\0_template.jpg" alt="Template Image" style="width:100%;">
+    <img src="images\image_search\0_template.jpg" alt="Template Image" style="width:80%;">
     <h4>Template Image</h4>
   </div>
   <div style="flex: 1; text-align: center; margin-left: 10px;">
-    <img src="images\image_search\3.9994_苏YG1192_20230305075519_0_1080.jpg" alt="Searched Image" style="width:100%;">
+    <img src="images\image_search\3.9994_苏YG1192_20230305075519_0_1080.jpg" alt="Searched Image" style="width:80%;">
     <h4>Searched Image</h4>
   </div>
 </div>
