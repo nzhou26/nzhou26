@@ -42,26 +42,37 @@
 
 <p align="center">Mechanical arm that ensures image acquisition from all angles  </p>
 
-### Innovation
+## Innovation
+### CLIP
 
 <p align="center">
-  <img src="./images/20240623130628_YGA1195_4_0_10" alt="CLIP image" style="width: 40%; margin-right: 2%;" />
+  <img src="images\clip\sample_images.png" alt="sample images" style="width: 46%;" />
+  <img src="images\clip\clip_vs_eff.png" alt="Acc comparison" style="width: 50%; margin-right: 2%;" />
 </p>
 
-* CLIP-Zero shot classification, reaching high accuracy with minimum dataset
+<p align="center">CLIP: language encoder assisted model, reaching high accuracy with minimum dataset</p>
 
-<p align="center">
-  <img src="./images/20240623130628_YGA1195_4_0_10" alt="image search" style="width: 40%; margin-right: 2%;" />
-</p>
+### Image Search
 
-* Image Search, looking up similar image from annotated data
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+  <div style="flex: 1; text-align: center; margin-right: 10px;">
+    <img src="images\image_search\0_template.jpg" alt="Template Image" style="width:100%;">
+    <h4>Template Image</h4>
+  </div>
+  <div style="flex: 1; text-align: center; margin-left: 10px;">
+    <img src="images\image_search\3.9994_苏YG1192_20230305075519_0_1080.jpg" alt="Searched Image" style="width:100%;">
+    <h4>Searched Image</h4>
+  </div>
+</div>
 
-<p align="center">
-  <img src="./images/20240623130628_YGA1195_4_0_10" alt="CLIP image" style="width: 40%; margin-right: 2%;" />
-</p>
+<div style="display: flex; justify-content: center;">
+  <div style="flex: 1; text-align: center;">
+    <img src="images\image_search\3.9994_苏YG1192_20230305075519_0_1080_labeled.jpg" alt="Searched Image with Mask and Result" style="width:100%;">
+    <h4>Looking up similar image by feature from annotated data</h4>
+  </div>
+</div>
 
-* Annotation System, making every label searchable by name or feature
-### Thoughts
+## Thoughts
 * More comprehensive annotation management
   1. Indexing every label in database, not in files; 
   2. Multi-level labelling system
