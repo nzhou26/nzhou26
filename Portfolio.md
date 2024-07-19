@@ -78,8 +78,9 @@
   2. Multi-level labelling system
   3. Fixed Labeling list 
 * More transparent proportion calculation system 
-  1. The conversion from area proportion to weight proportion could be adjustable by customer
-  2. Real time showcasing of annotated data besides new collected raw images
+  1. Ground truth from onsite operator is not reliable, but ground truth from image is more clear and easy to compare
+  2. The conversion from area proportion to weight proportion could be adjustable by customer
+  3. Real time showcasing of similar annotated data besides new collected raw images
 * More intelligent system
   1. Multi-Model AI to capture feature beyond visions
   2. NLP assisted computer-vision model in production environment is a must-do step for future industrial automation
