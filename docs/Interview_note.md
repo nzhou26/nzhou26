@@ -4,6 +4,11 @@
 
 ### Model Architecture and Design
 - Explain the architecture of EfficientNet, U-Net, YOLO, Mask R-CNN, ViT, and CLIP.
+    * The key of EfficientNet is compound scaling, meaning increasing the dimension of its network without lossing accuracy. 
+    * U-net is mainly used for semantic segmentation. The key aspect of U-net is encoder, upsamling, and skip connection
+    * Mask R-CNN contains key component of ROIAlign and Feature Pyramid Network. ROIAlign consists of Bilinear Interpolation ( For each bin, ROI Align computes the exact values using bilinear interpolation from the **nearest four points** on the feature map. This avoids any rounding and keeps the spatial information intact.). FPN using features from different scales
+    * ViT doesn't use CNN, it splits image to **patches**, and flatten every patch. Positional encoder to retain spatial information and transformer encoder consists of MLP. 
+    * CLIP consists two parts, one image encoder and one text encoder, these features then projected into shared embedding space
 - How would you choose an appropriate model for a given task?
 - Discuss the trade-offs between different model architectures.
 
