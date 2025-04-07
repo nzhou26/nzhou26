@@ -1,6 +1,6 @@
 # What's Up 👋
 
-I'm **Ningkun Zhou**, a Machine Learning Engineer with **5 year experience**, specializing in computer vision and its applications in industrial and scientific settings. I'm looking for jobs in the United Kingdom right now. 
+I'm **Ningkun Zhou**, a Machine Learning Engineer with **5 year experience**, specializing in computer vision and its applications in industrial and scientific settings.
 
 ## Professional Experience
 ### Danieli China
